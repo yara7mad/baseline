@@ -7,8 +7,8 @@ This project was developed for the **Futurethon** hackathon, where it was recogn
 
 ---
 
-## 📺 Project Demonstration
-[![Baseline Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([YOUR_YOUTUBE_VIDEO_URL](https://youtu.be/eOQqpg3-8_c))
+## Project Demonstration
+[![Baseline Demo Video](https://img.youtube.com/vi/eOQqpg3-8_c/0.jpg)](https://youtu.be/eOQqpg3-8_c)
 *Click the image above to watch the full walkthrough of the Baseline system.*
 
 ---
@@ -16,7 +16,7 @@ This project was developed for the **Futurethon** hackathon, where it was recogn
 ## Overview
 As Saudi Arabia accelerates toward its Vision 2030 sustainability goals, the demand for rapid, accurate renewable energy infrastructure auditing has never been higher. **Baseline** addresses this by using **Llama-3.3-70B** (via Groq API) to automate the extraction of technical specifications from complex engineering PDFs.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Backend:** Node.js, Express.js
 * **AI Engine:** Groq API (Llama-3.3-70B-Versatile)
 * **Parsing:** PDF-Parse for deep technical data extraction
